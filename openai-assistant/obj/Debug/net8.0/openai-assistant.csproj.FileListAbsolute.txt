@@ -1,0 +1,17 @@
+C:\Users\PC-19\Documents\jazzo\openai-assistant\bin\Debug\net8.0\openai-assistant.exe
+C:\Users\PC-19\Documents\jazzo\openai-assistant\bin\Debug\net8.0\openai-assistant.deps.json
+C:\Users\PC-19\Documents\jazzo\openai-assistant\bin\Debug\net8.0\openai-assistant.runtimeconfig.json
+C:\Users\PC-19\Documents\jazzo\openai-assistant\bin\Debug\net8.0\openai-assistant.dll
+C:\Users\PC-19\Documents\jazzo\openai-assistant\bin\Debug\net8.0\openai-assistant.pdb
+C:\Users\PC-19\Documents\jazzo\openai-assistant\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-assistant.csproj.AssemblyReference.cache
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-assistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-assistant.AssemblyInfoInputs.cache
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-assistant.AssemblyInfo.cs
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-assistant.csproj.CoreCompileInputs.cache
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-a.B994EFD2.Up2Date
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-assistant.dll
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\refint\openai-assistant.dll
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-assistant.pdb
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\openai-assistant.genruntimeconfig.cache
+C:\Users\PC-19\Documents\jazzo\openai-assistant\obj\Debug\net8.0\ref\openai-assistant.dll
